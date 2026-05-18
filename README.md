@@ -31,10 +31,10 @@ Please consider citing our work:
  - PyTorch >= 1.4.0
 2. Data Preparation
    You can obtain the four standard benchmarks (SMD, MSL, SMAP, PSM) from this [Google Cloud](https://drive.google.com/drive/folders/1gisthCoE-RrKJ0j3KPV7xiibhHWT9qRm?usp=sharing). **All the datasets are well pre-processed**. For the SWaT dataset, you can apply for it by following its official tutorial.
-   For our newly proposed SMD+ dataset, please download it from Hugging Face: [SMD+ Dataset on Hugging Face](TODO: Insert Hugging Face Dataset Link).
+   For our newly proposed SMD+ dataset, please download it from Hugging Face: [SMD+ Dataset on Hugging Face](https://huggingface.co/datasets/www0wwwjs1/SMDPlus).
    Place all downloaded data into the ./dataset/ directory.
 3. Pre-trained Models
-   The best-performing models on all benchmarks (SMD, MSL, SMAP, SWaT, PSM, and SMD+) are available at: [Pre-trained Checkpoints](TODO: Insert Hugging Face Dataset Link).
+   The best-performing models on all benchmarks (SMD, MSL, SMAP, SWaT, PSM, and SMD+) are available at: [Pre-trained Checkpoints](https://huggingface.co/www0wwwjs1/POST).
    Download and extract the .tar.gz file, and place the pre-trained weights into the ./checkpoints/ folder. Ensure the files are named following the format: <dataset_name>_checkpoint.pth (e.g., SMD_checkpoint.pth).
 
 ## Evaluation
