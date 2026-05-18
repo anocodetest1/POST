@@ -12,14 +12,8 @@ This repository contains the official PyTorch implementation of the paper **POST
 Please consider citing our work:
 
 ```
-@misc{dycl,
-      title={Dynamic Contrastive Learning for Hierarchical Retrieval: A Case Study of Distance-Aware Cross-View Geo-Localization}, 
-      author={Suofei Zhang and Xinxin Wang and Xiaofu Wu and Quan Zhou and Haifeng Hu},
-      year={2025},
-      eprint={2506.23077},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2506.23077}, 
+@misc{post,
+
 }
 
 ```
