@@ -12,8 +12,14 @@ This repository contains the official PyTorch implementation of the paper **POST
 Please consider citing our work:
 
 ```
-@misc{post,
-
+@misc{zhang2026postpriorobservationadversariallearning,
+      title={POST: Prior-Observation Adversarial Learning of Spatio-Temporal Associations for Multivariate Time Series Anomaly Detection}, 
+      author={Suofei Zhang and Yaxuan Zheng and Haifeng Hu},
+      year={2026},
+      eprint={2605.18128},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2605.18128}, 
 }
 
 ```
