@@ -1,11 +1,11 @@
-# Spatio-Temporal Adversarial Learning for Spacecraft Fault Detection and Isolation
+# Spatio-Temporal Adversarial Learning for Multivariate Time Series Anomaly Detection and Localization
 
-This repository contains the official PyTorch implementation of the paper **Spatio-Temporal Adversarial Learning for Spacecraft Fault Detection and Isolation**.
+This repository contains the official PyTorch implementation of the paper **Spatio-Temporal Adversarial Learning for Multivariate Time Series Anomaly Detection and Localization**.
 
 ## 💡 Highlights
- - We propose a reconstruction-based FDI framework leveraging the synergy between Temporal Anomaly Self-Attention (TASA) and Spatial Anomaly Graph Attention (SAGA) modules. 
+ - We propose a reconstruction-based MTSADL framework leveraging the synergy between Temporal Anomaly Self-Attention (TASA) and Spatial Anomaly Graph Attention (SAGA) modules. 
  - We construct SMD+, a dataset featuring precise channel-wise annotations. The dataset can serve as a generic testbed for anomaly localization in MTS. 
- - Extensive experiments validate that POST not only outperforms leading methods by a substantial margin in diverse MTSAD tasks, but also establishes a new state-of-the-art (SOTA) for spacecraft FDI applications.
+ - Extensive experiments validate that POST not only outperforms leading methods by a substantial margin in diverse MTSAD tasks, but also establishes a new state-of-the-art (SOTA) for MTSADL applications.
 
 ## Suggested citation
 
